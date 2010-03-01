@@ -1,0 +1,11 @@
+#summary this Project Choices
+
+
+= Choices =
+ * PDFLens ,[PDFLensMean] 
+  # +1 Daniel Wilson		
+  # +1 Mel 		
+  # +1 nisen
+ * PDFDbg  Dexter Mishra
+ * OpenPDF Adam
+ * PDFBox GUI nisen

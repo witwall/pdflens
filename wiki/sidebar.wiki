@@ -1,0 +1,11 @@
+#summary 一个中文化的小组的侧边栏
+
+ * [Index]
+ * [Choices]
+ * [Roadmap]
+ * [Tasks]
+ * [DeveloperGuide]
+  * [Plugins]
+  * [snippet]
+ * [Reference]
+  * [OtherPDF_GUI]

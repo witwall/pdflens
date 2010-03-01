@@ -1,0 +1,9 @@
+#summary All Choices We do and why we do
+
+
+= Choices  =
+ * [ProjectNameChoices] : 
+ * [PackageNameChoices]: org.apache.pdflens.*
+ * [GUI_API_Choices] 
+ * [PluginSystemChoices]
+ 

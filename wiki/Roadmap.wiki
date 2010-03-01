@@ -1,0 +1,27 @@
+#summary One-sentence summary of this page.
+
+=OK=
+
+Version:0.0.1
+Release date: 2010-2-13 
+Changes: copy from pdfbox trunk to begin
+
+
+=Not OK=
+
+ * Version:0.0.2
+ * Changes: make ant and maven can use
+
+ * Version:0.0.3
+ * Changes: I have found that the greatest demand is pdf debugging. So I started gui base PDFDebugger operate a tree through the visualization。Modify properties then generated a pdf file。PDFDebugger is one choice of perspectives when open pdf。
+
+ * Version:0.0.4
+ * Changes: use [Pivot]
+
+
+= Plan =
+ * prototype
+ * two function
+ * five function
+ * plug-in system
+ * continue ....　 

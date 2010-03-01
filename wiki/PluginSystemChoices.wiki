@@ -1,0 +1,6 @@
+#summary Plugin System Choices we can choose
+
+= Chooses =
+ * jpf
+ * OSGi Felix
+ * create one myself  Pivot-base
