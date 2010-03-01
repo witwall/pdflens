@@ -1,0 +1,34 @@
+Release Notes -- Apache PDFBox -- Version 1.0.0
+
+Introduction
+------------
+
+PDFBox GUI is an open source PDF GUI use Apache PDFBox lib¡£ 
+
+more details see https://code.google.com/p/pdfboxgui/
+
+----------------
+
+
+About PDFBox 
+-------------------
+
+Apache PDFBox is an open source Java library for working with PDF documents.
+This project allows creation of new PDF documents, manipulation of existing
+documents and the ability to extract content from documents. Apache PDFBox
+also includes several command line utilities. Apache PDFBox is published
+under the Apache License, Version 2.0.
+
+For more information, visit http://pdfbox.apache.org/
+
+About The Apache Software Foundation
+------------------------------------
+
+Established in 1999, The Apache Software Foundation provides organizational,
+legal, and financial support for more than 100 freely-available,
+collaboratively-developed Open Source projects. The pragmatic Apache License
+enables individual and commercial users to easily deploy Apache software;
+the Foundation's intellectual property framework limits the legal exposure
+of its 2,500+ contributors.
+
+For more information, visit http://www.apache.org/
