@@ -4,6 +4,6 @@
 = Choices  =
  * [ProjectNameChoices] : 
  * [PackageNameChoices]: org.apache.pdflens.*
- * [GUI_API_Choices]  
+ * [GUI_API_Choices] :  Pivot
  * [PluginSystemChoices]
  
