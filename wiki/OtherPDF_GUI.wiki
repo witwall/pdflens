@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary 其他的PDF阅读器
 
 ==other PDF GUI (open source,share or commercial) ==
  * inforama ( http://www.inforama.org  )
