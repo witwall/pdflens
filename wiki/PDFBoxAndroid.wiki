@@ -1,4 +1,4 @@
-#summary Apache PDFBox是Java操作PDF文档操作的API之一，也是Java的事实标准。
+#summary 本项目把PDFBox从JavaSE迁移到Android上
 = Introduction =
 
 Apache PDFBox是Java操作PDF文档操作的API之一，也是Java的事实标准。但因依赖JavaSE中的图形库，只能在JavaSE和JavaEE中应用，不能应用于Android。
