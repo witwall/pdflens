@@ -7,5 +7,6 @@
  * [DeveloperGuide]
   * [Plugins]
   * [snippet]
+  * [SubProjects]  子项目
  * [Reference]
   * [OtherPDF_GUI]
