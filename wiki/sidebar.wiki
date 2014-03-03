@@ -4,6 +4,12 @@
  * [Choices]
  * [Roadmap]
  * [Tasks]
+ * [DeveloperGuide]
+  * [Plugins]
+  * [snippet]
+  * [SubProjects]  子项目
+ * [Reference]
+  * [OtherPDF_GUI]
 ===所有的子项目 ===
   * [PDFBoxAndroid]
   * [PDFBoxWeb]
@@ -11,10 +17,3 @@
   * [JempBoxAndroid]
   * [PDFBoxAndroidReader]
   * [PDFLens]
-
- * [DeveloperGuide]
-  * [Plugins]
-  * [snippet]
-  * [SubProjects]  子项目
- * [Reference]
-  * [OtherPDF_GUI]
