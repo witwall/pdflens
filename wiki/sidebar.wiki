@@ -9,7 +9,7 @@
   * [snippet]
   * [SubProjects]  子项目
  * [Reference]
-  * [OtherPDF_GUI]
+ * [OtherPDF_GUI]
 ===所有的子项目 ===
   * [PDFBoxAndroid]
   * [PDFBoxWeb]
