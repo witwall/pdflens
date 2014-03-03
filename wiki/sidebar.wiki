@@ -1,6 +1,6 @@
 #summary 一个中文化的小组的侧边栏
 
- * [Index]
+ * [Index 首页]
  * [Choices]
  * [Roadmap]
  * [Tasks]
